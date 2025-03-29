@@ -10,3 +10,8 @@
 ## Agent Perspective World Model
 
 1. Zhiyuan Sun, Enhancing Agent Learning through World Dynamics Modeling. EMNLP2024. [Code](https://github.com/ZhiyuuanS/DiVE).
+
+
+## Vision Perspective World Model
+
+1. Aether [Project](https://aether-world.github.io/)
