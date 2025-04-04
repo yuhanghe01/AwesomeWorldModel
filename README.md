@@ -17,3 +17,4 @@
 1. Aether [Project](https://aether-world.github.io/)
 2. Paul Engstler et al., SynCity: Training-Free Generation of 3D Worlds. 2025. [Paper](https://arxiv.org/pdf/2503.16420), [Project](https://research.paulengstler.com/syncity/)
 3. Jack Parker-Holder et al., Genie 2: A large-scale foundation world model. 2024. [Project](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+4. Yu Shang et al., UrbanWorld: An Urban World Model for 3D City Generation. [GitHub](https://github.com/Urban-World/UrbanWorld), [Paper](https://arxiv.org/pdf/2407.11965)
