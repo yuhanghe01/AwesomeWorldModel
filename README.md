@@ -15,3 +15,4 @@
 ## Vision Perspective World Model
 
 1. Aether [Project](https://aether-world.github.io/)
+2. Paul Engstler et al., SynCity: Training-Free Generation of 3D Worlds. 2025. [Paper](https://arxiv.org/pdf/2503.16420), [Project](https://research.paulengstler.com/syncity/)
