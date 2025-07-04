@@ -20,6 +20,7 @@
 3. Jack Parker-Holder et al., Genie 2: A large-scale foundation world model. 2024. [Project](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 4. Yu Shang et al., UrbanWorld: An Urban World Model for 3D City Generation. [GitHub](https://github.com/Urban-World/UrbanWorld), [Paper](https://arxiv.org/pdf/2407.11965)
 5. V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning, 2025. [Project](https://ai.meta.com/vjepa/)
+6. Amir Bar et al., Navigation World Models. CVPR2025. [Project](https://www.amirbar.net/nwm/)
 
 ## Interaction Perspective World Model
 
