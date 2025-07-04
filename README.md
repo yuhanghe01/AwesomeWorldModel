@@ -10,6 +10,7 @@
 ## Agent Perspective World Model
 
 1. Zhiyuan Sun, Enhancing Agent Learning through World Dynamics Modeling. EMNLP2024. [Code](https://github.com/ZhiyuuanS/DiVE).
+2. Pascale Fung et al., Embodied AI Agents: Modeling the World. 2025. [Paper](https://arxiv.org/pdf/2506.22355v2)
 
 
 ## Vision Perspective World Model
