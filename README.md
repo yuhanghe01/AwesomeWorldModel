@@ -25,3 +25,7 @@
 ## Interaction Perspective World Model
 
 1. Anssi Kanervisto et al., World and Human Action Models Towards Gameplay Ideation. Nature. 2025.
+
+## Critiques of World Model
+
+1. Eric Xing, et al., Critiques of World Models. 2025. [paper](https://arxiv.org/pdf/2507.05169)
