@@ -30,3 +30,8 @@
 ## Critiques of World Model
 
 1. Eric Xing, et al., Critiques of World Models. 2025. [paper](https://arxiv.org/pdf/2507.05169)
+
+
+## Workshop on World Model
+
+1. ICML 2025 Workshop on Assessing World Models. [link](https://www.worldmodelworkshop.org/home)
