@@ -35,3 +35,8 @@
 ## Workshop on World Model
 
 1. ICML 2025 Workshop on Assessing World Models. [link](https://www.worldmodelworkshop.org/home)
+
+## Code Perspective World Model
+
+1. Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search. [NeurIPS 2024](https://arxiv.org/pdf/2405.15383)
+2. WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment. [NeurIPS 2024](https://arxiv.org/pdf/2402.12275)
