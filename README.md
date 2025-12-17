@@ -22,6 +22,7 @@
 5. V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning, 2025. [Project](https://ai.meta.com/vjepa/)
 6. Amir Bar et al., Navigation World Models. CVPR2025. [Project](https://www.amirbar.net/nwm/)
 7. Jun Cen et al., WorldVLA: Towards Autoregressive Action World Model. 2025. [paper](https://arxiv.org/pdf/2506.21539), [GitHub](https://github.com/alibaba-damo-academy/WorldVLA)
+8. Jingtong Yue et al., Simulating the Visual World with Artificial Intelligence: A Roadmap. [Project](https://world-model-roadmap.github.io/)
 
 ## Interaction Perspective World Model
 
